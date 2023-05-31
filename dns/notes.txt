@@ -1,0 +1,12 @@
+domain name system
+
+-basicamente el nombre del dominio lo convierte a una direccion ip publica
+
+-Puedes ver el ip publico si vas a network y lo filtras en docs
+
+-el DNS actúa como una especie de "libreta de direcciones" para internet.
+
+-el DNS es un componente esencial de internet que permite que las computadoras se comuniquen 
+y se conecten entre sí utilizando nombres de dominio en lugar de direcciones IP numéricas.
+
+-translates a request for a domain name into the corresponding IP address
